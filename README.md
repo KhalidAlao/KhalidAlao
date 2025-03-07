@@ -2,7 +2,7 @@ I am a dedicated first-year computer science student based in London, interested
 
 Technologies: Proficient in Python, JavaScript, Git, HTML, CSS, and familiar with frameworks such as React and Redux.
 
- How to reach me alaokha@gmail.com
+ How to reach me KhalidAlao30@gmail.com.
 
 <!---
 KhalidAlao/KhalidAlao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
