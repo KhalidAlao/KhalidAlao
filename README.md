@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @KhalidAlao
-- 👀 I’m interested in Finance
-- 🌱 I’m currently learning Python, R, and SQL
+I am a dedicated first-year computer science student based in London, interested in software development and eager to embrace new technologies that align with my expanding career goals. With a strong foundation in Python and JavaScript, I thrive on challenges and actively seek opportunities to learn and grow within the tech industry. 
 - 📫 How to reach me alaokha@gmail.com
 
 <!---
