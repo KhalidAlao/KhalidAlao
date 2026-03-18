@@ -16,12 +16,12 @@ Spring Boot · PostgreSQL · Command Line · Database Design
 Featured Projects
 
 
-
+– Deployed Wazuh SIEM (manager, indexer, dashboard) on Ubuntu (UTM emulated on Apple Silicon) with agents on endpoints for comprehensive log collection and real‑time monitoring.
 - Enterprise Network Security Lab:	Segmented enterprise architecture with nftables firewall policies, DMZ isolation, and attack simulation.	Cybersecurity nftables Infrastructure
 - 4-7-8 Breathing Guide:	Guided breathing app using React and Framer Motion for relaxation.	React Framer Motion UI/UX	Repo 
 - Snake Game:	Classic snake game with score tracking and restart functionality.	JavaScript HTML5 CSS3	
 - Cryptocurrency Price Tracker:	Real-time crypto prices via CoinGecko API, built with React.	React REST API Real-time Data
-- CLI Expense Tracker:	Terminal-based financial manager with SQLite backend.	Bash SQLite Command Line
+
 
 
 Please feel free to email me at khalidalao30@gmail.com
